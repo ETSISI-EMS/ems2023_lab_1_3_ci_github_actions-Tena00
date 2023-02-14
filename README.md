@@ -1,4 +1,4 @@
-[![Build and test of Java Project](https://github.com/ETSISI-EMS/ems2023_lab_1_3_ci_github_actions-Tena00/actions/workflows/workflow.yml/badge.svg)](https://github.com/ETSISI-EMS/ems2023_lab_1_3_ci_github_actions-Tena00/actions/workflows/workflow.yml)
+
 
 # Pipeline de Integración Continua con GitHub Actions
 
